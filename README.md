@@ -71,6 +71,9 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/springboot
 ```
 
+## Pré-requisitos
+- IDE e Java instalados.
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
