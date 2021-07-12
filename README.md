@@ -1,4 +1,4 @@
-<h2>Exercício Juntos - O que é o Spring Boot</h2>
+<h2>O que é o Spring Boot</h2>
 
 * Fazer o build do projeto (comando **mvn clean install**).
 * Explorar o conteúdo do arquivo .jar gerado.
