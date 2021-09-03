@@ -5,8 +5,13 @@
 * Executar o projeto no terminal com o comando **java -jar**.
 * Trocar o formato do artefato para .war.
 
-O projeto consta com todos os passos desenvolvidos acima.
+## Requisitos
+- IDE e Java instalados.
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
+## Comandos
 Para executar o projeto no após o build, digite o seguinte comando:
 
 ```shell script
@@ -70,18 +75,3 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 ```
 http://localhost:8080/springboot
 ```
-
-## Pré-requisitos
-- IDE e Java instalados.
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
-
-
-
-
-
-
-
